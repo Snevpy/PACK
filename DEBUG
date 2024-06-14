@@ -1,5 +1,5 @@
-hargapack = 26000
-namapack = "pineapple_panic_01"
+hargapack = 7500
+namapack = "pineapple_guzzler_pack"
 MinItemPack = 1
 maxbuy = 1
-iditempack = {13550}
+iditempack = {10924,11002}
