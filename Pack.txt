@@ -1,5 +1,5 @@
 hargapack = 26000
 namapack = "pineapple_panic_01"
-MinItemPack = 2
+MinItemPack = 1
 maxbuy = 1
 iditempack = {13550}
