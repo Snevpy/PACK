@@ -1,5 +1,5 @@
-hargapack = 15000
-namapack = "star_supplies"
-MinItemPack = 2
+hargapack = 25000
+namapack = "garuda_chest"
+MinItemPack = 1
 maxbuy = 1
-iditempack = {6526, 6532, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6416}
+iditempack = {12566}
