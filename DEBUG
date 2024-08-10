@@ -1,5 +1,5 @@
-hargapack = 25000
-namapack = "garuda_chest"
+hargapack = 8000  
+namapack = "city_pack"
 MinItemPack = 1
 maxbuy = 1
-iditempack = {12566}
+iditempack = {1008, 994, 986, 992, 990, 996, 998, 1004, 1006, 988, 1002}
