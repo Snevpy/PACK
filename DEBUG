@@ -1,3 +1,4 @@
+autobuypack = true
 hargapack = 2000  
 namapack = "signal_jammer"
 MinItemPack = 5
