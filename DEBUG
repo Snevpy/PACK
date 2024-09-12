@@ -1,16 +1,13 @@
 SpecialItem = {1400, 955, 1240, 8558, 1256, 1058, 1094, 1096, 1098, 1828}                -- Put all your id item special in here
 minSpec = 100                     -- Bot will dropping the item when he have X minSpec or more
 ID_AcuanDrop_Spec = 20           -- ID Foreground or Background for Drop Special Item
-WebhookSpec = "https://discord.com/api/webhooks/1283654884226236530/NFfAguuV33tpZ21ozaVuyJdSuAozU_Ff3z91Q7zfhnZRKepvUlytSzisz4th3KIlFf-1"       -- Webhook Url for info special item
-HookIDSpec = "1283654976438009857"                                     -- Webhook ID for info special item
 
-autobuypack = true              -- Automatically buying a pack
-hargapack = 2000                -- Pack Price
-MinGems = 10000                 -- Minimal Gems for Buying Pack
-namapack = "signal_jammer"      -- Pack Name
-MinItemPack = 5                 -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {226}              -- Put all your id item pack in here
-maxbuy = 5                      -- Bot will try to buying X times if have more gems
+hargapack = 12500                -- Pack Price
+namapack = "mooncake_sale"       -- Pack Name
+MinItemPack = 50                 -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {10158}             -- Put all your id item pack in here
+maxbuy = 2                       -- Bot will try to buying X times if have more gems
+MinGems = hargapack                 -- Minimal Gems for Buying Pack
 
 TargetGems = 9999999999
 
