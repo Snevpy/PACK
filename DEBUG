@@ -12,3 +12,11 @@ maxbuy = 5
 iditempack = {226}
 
 TargetGems = 9999999999
+
+AutoCure = true             -- If true, bot will automatically cure from Torn/Gem Malady
+idVial = 8542               -- ID Item to use Vilevial
+MaxBotSurg = 60             -- Max Bot in World Surg/Station
+SurgPrice = 3               -- How much price for Auto Surg Machine
+BotSurgList = {
+    "DSURGYU|ILHAMDERO"
+}                           -- Bot will go there if got Torn/Gem Malady
