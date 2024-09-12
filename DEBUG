@@ -20,3 +20,5 @@ SurgPrice = 3               -- How much price for Auto Surg Machine
 BotSurgList = {
     "DSURGYU|ILHAMDERO"
 }                           -- Bot will go there if got Torn/Gem Malady
+
+SpamText = false                 -- If true, bot will saying random text every harvesting, pnb, etc.
