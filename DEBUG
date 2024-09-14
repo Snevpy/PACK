@@ -4,7 +4,7 @@ ID_AcuanDrop_Spec = 20           -- ID Foreground or Background for Drop Special
 
 hargapack = 5000                -- Pack Price
 namapack = "mooncake_mag"       -- Pack Name
-MinItemPack = 50                 -- Bot will dropping the pack when he have X MinItemPack or more
+MinItemPack = 10                 -- Bot will dropping the pack when he have X MinItemPack or more
 iditempack = {10158}             -- Put all your id item pack in here
 maxbuy = 2                       -- Bot will try to buying X times if have more gems
 MinGems = 10000                 -- Minimal Gems for Buying Pack
