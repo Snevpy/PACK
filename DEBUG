@@ -8,7 +8,7 @@ MinItemPack = 5                 -- Bot will dropping the pack when he have X Min
 iditempack = {226}             -- Put all your id item pack in here
 maxbuy = 5                       -- Bot will try to buying X times if have more gems
 MinGems = 10000                 -- Minimal Gems for Buying Pack
-KeepMagni = 0 -- BOT AKAN TETAP MENYIMPAN MINIMAL 10 MAGNI APABILA DROP PACKNYA MOONCAKE MAGNI [DEFAULT VALUE IS 20]
+KeepMagni = 20 -- BOT AKAN TETAP MENYIMPAN MINIMAL 10 MAGNI APABILA DROP PACKNYA MOONCAKE MAGNI [DEFAULT VALUE IS 20]
 
 
 
