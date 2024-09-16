@@ -11,7 +11,8 @@ MinGems = 5000                 -- Minimal Gems for Buying Pack
 KeepMagni = 50 -- BOT AKAN TETAP MENYIMPAN MINIMAL 10 MAGNI APABILA DROP PACKNYA MOONCAKE MAGNI [DEFAULT VALUE IS 20]
 TakeMagni = false
 
-
+ShowNukedInfo = true
+NukedHook = "https://discord.com/api/webhooks/1285348589153030364/oGAoDuIun59spljdGdJnYfsERJ00wrVwwEh-4AiO5xEUuj4uAasMTrioRrM3YZapPdXQ"
 
 TargetGems = 9999999999
 
