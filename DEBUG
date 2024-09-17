@@ -1,4 +1,4 @@
-SpecialItem = {1400, 955, 1240, 8558, 1256, 1058, 1094, 1096, 1098, 1828, 10228}                -- Put all your id item special in here
+SpecialItem = {1400, 955, 1240, 8558, 1256, 1058, 1094, 1096, 1098, 1828, 10228, 10134, 10136, 10138, 10140, 10146}                -- Put all your id item special in here
 minSpec = 70                     -- Bot will dropping the item when he have X minSpec or more
 ID_AcuanDrop_Spec = 20           -- ID Foreground or Background for Drop Special Item
 
