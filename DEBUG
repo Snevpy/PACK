@@ -1,15 +1,1 @@
-SpecialItem = {955, 1240, 8558, 1400, 2034, 2036}                -- Put all your id item special in here
-minSpec = 1                     -- Bot will dropping the item when he have X minSpec or more
-ID_AcuanDrop_Spec = 20           -- ID Foreground or Background for Drop Special Item
-
-hargapack = 1000                -- Pack Price
-namapack = "ssp_10_pack"       -- Pack Name
-MinItemPack = 100                 -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {5706}             -- Put all your id item pack in here
-maxbuy = 10                       -- Bot will try to buying X times if have more gems
-MinGems = 10000                 -- Minimal Gems for Buying Pack
-
-ShowNukedInfo = true
-NukedHook = "https://discord.com/api/webhooks/1285348589153030364/oGAoDuIun59spljdGdJnYfsERJ00wrVwwEh-4AiO5xEUuj4uAasMTrioRrM3YZapPdXQ"
-
 TargetGems = 9999999999
