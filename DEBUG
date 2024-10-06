@@ -1,6 +1,1 @@
 TargetGems = 9999999999
-
-Rest_Settings = {
-    enable = true,          -- Bot will Resting if true
-    interval = 720,         -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
-    rest = 5  
