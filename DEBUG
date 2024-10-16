@@ -8,3 +8,9 @@ MinItemPack = 20                -- Bot will dropping the pack when he have X Min
 iditempack = {6526, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6416}
 maxbuy = 1                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20 
+
+Rest_Settings = {
+    enable = true,          -- Bot will Resting if true
+    interval = 720,         -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
+    rest = 60                -- The bot will rest for 5 minutes
+}
