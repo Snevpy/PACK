@@ -14,3 +14,4 @@ Rest_Settings = {
     interval = 720,         -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
     rest = 60                -- The bot will rest for 5 minutes
 }
+DelayRecon = 120000
