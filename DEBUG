@@ -1,13 +1,3 @@
-AutoCure = true             -- If true, bot will automatically cure from Torn/Gem Malady
-TalkTooMuch = false         -- If true, auto find Greemble / Chicken Maladies [Only Work if AutoCure true]
-idVial = 8542               -- ID Item to use Vilevial, Bot will take vial Items on WorldTools
-MaxBotSurg = 60              -- Max Bot in World Surg/Station
-SurgPrice = 3               -- How much price for Auto Surg Machine [Put High Price]
-BotSurgList = {
-    "DSURGYU|TORNXYZ"
-    "DOJWA"
-    "VYTASURG"
-}
 TargetGems = 9999999999
 
 autobuypack = true              -- Automatically buying a pack
