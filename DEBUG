@@ -1,3 +1,7 @@
+BotSurgList = {
+    "LOO"
+}                           -- Bot will go there if got Torn/Gem Malady
+
 TargetGems = 9999999999
 Limit_BotInfo = 0
 
