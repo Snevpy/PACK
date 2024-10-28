@@ -6,10 +6,10 @@ TargetGems = 9999999999
 Limit_BotInfo = 0
 
 autobuypack = true              -- Automatically buying a pack
-hargapack = 6000               -- Pack Price
-MinGems = 12000             -- Minimum Gems for Buying Pack
-namapack = "dark_ticket" -- Pack Name
-MinItemPack = 2                -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {9018}              -- Put all your id item pack in here
-maxbuy = 2                      -- Bot will try to buying X times if have more gems
+hargapack = 15000               -- Pack Price
+MinGems = hargapack             -- Minimum Gems for Buying Pack
+namapack = "star_supplies" -- Pack Name
+MinItemPack = 20                -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {6526, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6416}              -- Put all your id item pack in here
+maxbuy = 1                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
