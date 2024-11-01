@@ -5,7 +5,7 @@ BotSurgList = {
 TargetGems = 9999999999
 Limit_BotInfo = 0
 
-autobuypack = true              -- Automatically buying a pack
+autobuypack = false              -- Automatically buying a pack
 hargapack = 15000               -- Pack Price
 MinGems = hargapack             -- Minimum Gems for Buying Pack
 namapack = "star_supplies" -- Pack Name
