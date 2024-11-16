@@ -14,4 +14,5 @@ iditempack = {6526, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 
 maxbuy = 8                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 
+DurasiWorldPNB = 80
 nLettPNB = 14
