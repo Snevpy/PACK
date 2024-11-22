@@ -5,12 +5,12 @@ BotSurgList = {
 TargetGems = 9999999999
 Limit_BotInfo = 0
 
-autobuypack = false              -- Automatically buying a pack
-hargapack = 20000               -- Pack Price
+autobuypack = true              -- Automatically buying a pack
+hargapack = 7500               -- Pack Price
 MinGems = hargapack             -- Minimum Gems for Buying Pack
-namapack = "thanksgiving_bell_pack"     -- Pack Name
-MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {10292}              -- Put all your id item pack in here
+namapack = "thanksgiving_bell"     -- Pack Name
+MinItemPack = 10                -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {7342}              -- Put all your id item pack in here
 maxbuy = 10                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 
