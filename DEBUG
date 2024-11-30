@@ -1,13 +1,13 @@
 TargetGems = 9999999999
 Limit_BotInfo = 0
 
-autobuypack = false              -- Automatically buying a pack
-hargapack = 7000               -- Pack Price
+autobuypack = true              -- Automatically buying a pack
+hargapack = 15000               -- Pack Price
 MinGems = hargapack             -- Minimum Gems for Buying Pack
-namapack = "silkworm"     -- Pack Name
-MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {3316, 10394}              -- Put all your id item pack in here
-maxbuy = 50                      -- Bot will try to buying X times if have more gems
+namapack = "star_supplies"     -- Pack Name
+MinItemPack = 20                -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {6526, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6416, 10394}              -- Put all your id item pack in here
+maxbuy = 8                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 
 DurasiWorldPNB = 80
