@@ -7,7 +7,7 @@ MinGems = hargapack             -- Minimum Gems for Buying Pack
 namapack = "star_supplies"     -- Pack Name
 MinItemPack = 20                -- Bot will dropping the pack when he have X MinItemPack or more
 iditempack = {6526, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6416, 10394}              -- Put all your id item pack in here
-maxbuy = 1                      -- Bot will try to buying X times if have more gems
+maxbuy = 5                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 
 DurasiWorldPNB = 80
