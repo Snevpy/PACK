@@ -7,7 +7,7 @@ MinGems = hargapack             -- Minimum Gems for Buying Pack
 namapack = "paleo_kit"     -- Pack Name
 MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
 iditempack = {3932, 3934, 4128, 3938, 4132}              -- Put all your id item pack in here
-maxbuy = 40                      -- Bot will try to buying X times if have more gems
+maxbuy = 30                      -- Bot will try to buying X times if have more gems
 ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 
 DurasiWorldPNB = 80
