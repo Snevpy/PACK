@@ -14,4 +14,4 @@ DurasiWorldPNB = 80
 nLettPNB = 14
 
 TimeRelogBotMatung = 15     -- Bot will auto reconnect when AFK during X minutes
-DontTrash = {10394}
+targettrash = 180
