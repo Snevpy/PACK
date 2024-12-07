@@ -13,4 +13,5 @@ ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
 DurasiWorldPNB = 80
 nLettPNB = 14
 
+TimeRelogBotMatung = 10     -- Bot will auto reconnect when AFK during X minutes
 DontTrash = {10394}
