@@ -1,17 +1,1 @@
-TargetGems = 9999999999
-Limit_BotInfo = 0
 
-autobuypack = true              -- Automatically buying a pack
-hargapack = 12500               -- Pack Price
-MinGems = hargapack             -- Minimum Gems for Buying Pack
-namapack = "crackers" -- Pack Name
-MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {5402, 10538, 10536}              -- Put all your id item pack in here
-maxbuy = 1                      -- Bot will try to buying X times if have more gems
-ID_AcuanDrop_Pack = 20           -- ID Foreground or Background for Drop Pack
-
-DurasiWorldPNB = 80
-nLettPNB = 14
-
-TimeRelogBotMatung = 15     -- Bot will auto reconnect when AFK during X minutes
-targettrash = 180
